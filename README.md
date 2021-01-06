@@ -67,7 +67,7 @@ DB_PWD=""
 `$ ballerina build`. 
 
 2. Then you can run the integration binary with the following command. 
-`$ ballerina run ./target/bin/ecs_template_sfdc_account_broadcast.jar`. 
+`$ ballerina run ./target/bin/ecs_template_sfdc_account_broadcast_to_db.jar`. 
 
 Successful listener startup will print following in the console.
 ```
